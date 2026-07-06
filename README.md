@@ -17,7 +17,7 @@ This project demonstrates the implementation of a SQL Data Warehouse using a mul
 - SQL
 
 ## Project Structure
-
+'''
 SQL-Data-Warehouse-Project/
 │── datasets/
 │── scripts/
@@ -25,7 +25,7 @@ SQL-Data-Warehouse-Project/
 │   ├── silver/
 │   └── gold/
 │── README.md
-|
+'''
 
 ## Workflow
 
